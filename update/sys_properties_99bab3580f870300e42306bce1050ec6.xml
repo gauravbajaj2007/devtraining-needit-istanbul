@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices>7,14,21</choices>
+        <description>Please decide the no of days before it gets autoclosed</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_58872_needit.AutocloseOverdue</name>
+        <read_roles/>
+        <suffix>AutocloseOverdue</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-11 18:16:49</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>99bab3580f870300e42306bce1050ec6</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_58872_needit.AutocloseOverdue</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_99bab3580f870300e42306bce1050ec6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-11 18:21:11</sys_updated_on>
+        <type>choicelist</type>
+        <value>7</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=99bab3580f870300e42306bce1050ec6"/>
+</record_update>
